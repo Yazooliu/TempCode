@@ -4,3 +4,7 @@ www.kaggle.com
 https://www.datasciencecentral.com/
 
 support@edureka.co
+
+
+#install on python 2
+pip install --upgrade  https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.1.0-py2-none-any.whl
